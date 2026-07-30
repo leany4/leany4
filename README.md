@@ -1,6 +1,6 @@
 ```
 my name is Leonid
-i am a full-time data scientist with skills of ml engineer
+i am a full-time data scientist with skills of ml engineer, bachelor in Computer Science & ML
 based in Moscow, Russia
 
 * langs and technologies i work with:
@@ -13,7 +13,8 @@ based in Moscow, Russia
 * things i also do:
  - crypto trading systems
 
-* things i like & study:
- - cybersecurity
+* things i'm interested in:
+ - everything new in ml
  - application of machine learning in trading
+ - all board sports
 ```
